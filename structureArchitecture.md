@@ -1,6 +1,6 @@
 # 🧩 TaskNShop Technical Blueprint
 
-A concise technical plan covering frontend, backend, and database architecture; communication flows; feasibility; and a step-by-step guide from MVP to production.
+A concise technical plan covering frontend, backend, and database architecture; communication flows; feasibility.
 
 ---
 
